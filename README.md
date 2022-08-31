@@ -20,15 +20,12 @@
 ![Humorous image of software quality estimation as a count of how many expletives
 you shout when reading code](https://www.osnews.com/images/comics/wtfm.jpg)
 
-Роберт С. Мартины Програм хангамжийн инженерчлэлийн зарчим номноос
-[_Clean Code_](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882),
-adapted for JavaScript. This is not a style guide. It's a guide to producing
-[readable, reusable, and refactorable](https://github.com/ryanmcdermott/3rs-of-software-architecture) software in JavaScript.
+Роберт С. Мартины [_Clean Code_](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) номноос ЖаваСкрипт -д тохируулсан Програм хангамжийн инженерчлэлийн зарчимууд.
 
-Not every principle herein has to be strictly followed, and even fewer will be
-universally agreed upon. These are guidelines and nothing more, but they are
-ones codified over many years of collective experience by the authors of
-_Clean Code_.
+Энэ нь загвар болгон ашиглах гарын авлага биш юм. Энэ бол 
+[readable, reusable, мөн refactorable](https://github.com/ryanmcdermott/3rs-of-software-architecture) байдлаар програм хангамжийг ЖаваСкрипт дээр бүтээх гарын авлага юм.
+
+Энд байгаа зарчим бүрийг хатуу дагаж мөрдөх шаардлаггүй бөгөөд бүр цөөхөн хэд нь хүлээн зөвшөөрөгдөж болох юм. Эдгээр нь зүгээр л удирдамж бөгөөд өөр юу ч биш, гэхдээ эдгээр нь _Clean Code_ номны зохиолчийн олон жилийн туршлага дээр кодлогдсон зүйлүүд юм.
 
 Our craft of software engineering is just a bit over 50 years old, and we are
 still learning a lot. When software architecture is as old as architecture
