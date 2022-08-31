@@ -1,26 +1,26 @@
 # clean-code-javascript
 
-## Table of Contents
+## Агуулга
 
-1. [Introduction](#introduction)
-2. [Variables](#variables)
-3. [Functions](#functions)
-4. [Objects and Data Structures](#objects-and-data-structures)
-5. [Classes](#classes)
+1. [Оршил](#introduction)
+2. [Хувьсагч](#variables)
+3. [Функц](#functions)
+4. [Объект мөн Өгөгдлийн бүтэц](#objects-and-data-structures)
+5. [Класс](#classes)
 6. [SOLID](#solid)
-7. [Testing](#testing)
+7. [Тест](#testing)
 8. [Concurrency](#concurrency)
-9. [Error Handling](#error-handling)
-10. [Formatting](#formatting)
-11. [Comments](#comments)
-12. [Translation](#translation)
+9. [Алдаа боловсоруулах](#error-handling)
+10. [Формат](#formatting)
+11. [Коммент](#comments)
+12. [Орчуулга](#translation)
 
-## Introduction
+## Оршил
 
 ![Humorous image of software quality estimation as a count of how many expletives
 you shout when reading code](https://www.osnews.com/images/comics/wtfm.jpg)
 
-Software engineering principles, from Robert C. Martin's book
+Роберт С. Мартины Програм хангамжийн инженерчлэлийн зарчим номноос
 [_Clean Code_](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882),
 adapted for JavaScript. This is not a style guide. It's a guide to producing
 [readable, reusable, and refactorable](https://github.com/ryanmcdermott/3rs-of-software-architecture) software in JavaScript.
